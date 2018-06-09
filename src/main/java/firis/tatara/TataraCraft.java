@@ -70,7 +70,7 @@ import net.minecraftforge.fml.relauncher.SideOnly;
 /** Modの情報を定義する */
 @Mod(
 		modid = TataraCraft.MOD_ID, 
-		name = TataraCraft.MOD_NAME2, 
+		name = TataraCraft.MOD_NAME, 
 		version = TataraCraft.MOD_VERSION, 
 		dependencies = TataraCraft.MOD_DEPENDENCIES, 
 		acceptedMinecraftVersions = TataraCraft.MOD_ACCEPTED_MINECRAFT_VERSIONS
@@ -88,9 +88,9 @@ public class TataraCraft {
     //public static final String MOD_ID2 = "YukariCraft";
     /** MOD名 */
     public static final String MOD_NAME = "TataraCraft";
-    public static final String MOD_NAME2 = "YukariCraft";
+    //public static final String MOD_NAME2 = "YukariCraft";
     /** MOD Version */
-    public static final String MOD_VERSION = "0.0.1";
+    public static final String MOD_VERSION = "0.1";
     /** 前提mod(Forgeをとりあえず前提にする。Forgeだと設定しなくてもいいのかは不明) 
      * 参考URL
      * http://minecraftjp.info/modding/index.php/MOD%E3%81%8C%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BE%E3%82%8C%E3%82%8B%E9%A0%86%E7%95%AA%E3%82%92%E6%8C%87%E5%AE%9A%E3%81%99%E3%82%8B

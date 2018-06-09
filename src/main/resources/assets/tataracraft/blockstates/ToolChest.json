@@ -1,0 +1,8 @@
+{
+    "variants": {
+    	"facing=north": { "model": "tataracraft:ToolChest" },
+        "facing=south": { "model": "tataracraft:ToolChest", "y": 180 },
+        "facing=west":  { "model": "tataracraft:ToolChest", "y": 270 },
+        "facing=east":  { "model": "tataracraft:ToolChest", "y": 90 }
+    }
+}

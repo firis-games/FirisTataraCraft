@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "tataracraft:blocks/toolchest_top",
+        "front": "tataracraft:blocks/toolchest_front",
+        "side": "tataracraft:blocks/toolchest_side"
+    }
+}

@@ -1,0 +1,8 @@
+itemGroup.tataraTab=TataraCraft
+item.Magnetite.name=Magnetite
+item.toolIronHammer.name=IronHammer
+item.toolStoneHammer.name=StoneHammer
+
+tile.MagnetiteOre.name=MagnetiteOre
+tile.TataraFurnace.name=TataraFurnace
+tile.ToolBox.name=ToolBox

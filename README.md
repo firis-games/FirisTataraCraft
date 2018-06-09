@@ -28,3 +28,4 @@ Minecraft Forge 1.8.9-11.15.1.1722
 1. 失敗したら gradlew clean 後にやり直す
 1. Eclipseへインポート
 1. 実行構成「Java アプリケーション -> プロジェクト名_Client」を設定すればEclipse上で実行できる
+1. gradlew build でbuild/lib下にjarファイルができあがる
